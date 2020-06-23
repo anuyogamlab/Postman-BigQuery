@@ -1,4 +1,3 @@
-# Postman-BigQuery
 # BigQuery Streaming API with Postman
 ## How to create and execute BigQuery streaming requests from Postman
 BigQuery is a petabyte scale, serverless data warehouse that comes with a built-in query engine. In traditional data warehousing approach, you extract, perform various transformations and load data into a data warehouse. BigQuery uses columnar storage format, where you can simply load or stream your data and start querying. You can query terabytes of data in a matter of seconds.
